@@ -9,12 +9,12 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* صبا کیانوش (http://sabakianoosh.github.io)
-* هلیا شمس زاده (http://heliashamszadeh.github.io)
-* فاطمه سادات باقری (http://fatemehsadatbagheri.github.io)
-* اسما حمید (http://asmahamid2003.github.io)
-* مبینا اسمعیل پور(http://mobinaesmaeilpoue.github.io)
-* فاطمه شرح دهی مقدم (http://fatememoqadam.github.io)
+* صبا کیانوش  ("http://sabakianoosh.github.io")
+* هلیا شمس زاده  ("http://heliashamszadeh.github.io")
+* فاطمه سادات باقری  ("http://fatemehsadatbagheri.github.io")
+* اسما حمید  ("http://asmahamid2003.github.io")
+* مبینا اسمعیل پور   ("http://mobinaesmaeilpoue.github.io")
+* فاطمه شرح دهی مقدم  ("http://fatememoqadam.github.io")
 
 
 
