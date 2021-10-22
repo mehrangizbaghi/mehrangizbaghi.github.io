@@ -17,9 +17,9 @@ minimal_mistakes_skin    :  "aqua" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "مهرانگیز باقی"
+title                    : "مهرانگیزی"
 title_separator          : "-"
-name                     : "mehrangiz baghi" 
+name                     : "mehrangiz baghii" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
